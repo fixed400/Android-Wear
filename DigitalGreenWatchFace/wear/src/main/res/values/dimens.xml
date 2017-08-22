@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
+    <dimen name="digital_x_offset">15dp</dimen>
+    <dimen name="digital_x_offset_round">25dp</dimen>
+    <dimen name="digital_y_offset">90dp</dimen>
+   -->
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
+    <dimen name="digital_x_offset">15dp</dimen>
+    <dimen name="digital_x_offset_round">18dp</dimen>
+
+    <dimen name="digital_y_offset_round">125dp</dimen>
+
+    <dimen name="digital_y_offset">110dp</dimen>
+
+    <!-- ================== Ambient MODE =================== -->
+    <dimen name="digital_x_offset_ambient_mode">40dp</dimen>
+    <dimen name="digital_x_offset_round_ambient_mode">45dp</dimen>
+</resources>

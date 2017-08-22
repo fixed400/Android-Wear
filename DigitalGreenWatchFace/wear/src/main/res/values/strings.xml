@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"Digital Green Watch Face "</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_digital_name">Digital Green</string>
+
+    <string name="digital_config_name">My_sETTINGS</string>
+</resources>

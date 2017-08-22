@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="my_background">#323235</color>
+    <color name="my_background2">#c6c6c6</color>
+    <color name="digital_text">#ffffff</color>
+    <color name="my_digital_text">#ddff00</color>
+    <color name="my_digital_text2">#ffd500</color>
+    <color name="burgundy">#9e3b39</color>
+    <color name="burgundy2">#be4c4a</color>
+    <color name="burgundy3">#9e394a</color>
+    <color name="burgundy4">#a43641</color>
+    <color name="my_custom_color">#1db95b</color>
+    <color name="my_custom_color2">#6cd71b</color>
+    <color name="my_custom_color3">#27ce1b</color>
+    <color name="my_custom_color3_1">#1a931e</color>
+    <color name="my_custom_color4">#ff8000</color>
+    <color name="my_custom_color4_1">#1badce</color>
+</resources>
